@@ -1,2 +1,2 @@
-# K8s-Vagrant-VotingApp
-A voting app deployed on a Kubernetes cluster created and configured using Vagrant &amp; Ansible.
+# HomeLab-K8s-Vagrant
+A local Home-Lab environment that runs a Kubernetes cluster provisioned with Vagrant & Ansible.
