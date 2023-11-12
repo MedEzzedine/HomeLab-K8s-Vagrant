@@ -13,7 +13,7 @@ You need the following packages installed in your local Linux machine:
 
 ## Connecting to the K8s cluster
 After running "vagrant up" and making sure all the nodes are running correctly, follow these steps to connect to the cluster via Kubectl:
-1. Install kubectl on your local machine ([instructions](https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/))
+1. Install kubectl on your local Linux machine ([instructions](https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/))
 2. Connect to the master node using SSH:
 	```bash
 	vagrant ssh k8s-master
@@ -23,3 +23,4 @@ After running "vagrant up" and making sure all the nodes are running correctly, 
 	```bash
 	kubectl get nodes
 	```
+ 
